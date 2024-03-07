@@ -1,0 +1,11 @@
+package java_31;
+
+public class HoaDonCaPhe {
+	public String tenLoaiCaPhe;
+	public double giaTien1Kg;
+	public double khoiLuong;
+	
+	public double tinhTongTien() {
+		
+	}
+}

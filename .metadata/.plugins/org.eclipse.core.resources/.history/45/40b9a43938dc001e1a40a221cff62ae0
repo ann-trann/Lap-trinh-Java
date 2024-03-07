@@ -1,0 +1,15 @@
+package java_31;
+
+public class Test {
+
+	public static void main(String[] args) {
+		HoaDonCaPhe hd = new HoaDonCaPhe("Trung Nguyen", 100, 1.5);
+		System.out.println("Tong tien: " + hd.tinhTongTien());
+		System.out.println("Kiem tra khoi luong > 2kg " + hd.ktraKLuongLonHon(2));
+		System.out.println("Kiem tra khoi luong > 1kg " + hd.ktraKLuongLonHon(1));
+		System.out.println("Kiem tra tong tien > 500K" + hd.ktrTongTienLonHon500K());
+	}
+	
+	
+
+}

@@ -1,0 +1,10 @@
+package java_31;
+
+public class Test {
+
+	public static void main(String[] args) {
+		HoaDonCaPhe hd = new HoaDonCaPhe("Trung Nguyen", 100, 1.5);
+		System.out.println("Tong tien: " + hd.tinhTongTien());
+	}
+
+}
