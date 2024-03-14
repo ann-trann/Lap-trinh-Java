@@ -1,0 +1,4 @@
+Xin chao, minh la coder
+Du lieu: 3.14 la so PI
+Student [id=100, name=Nguyen Van A]
+
